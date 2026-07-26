@@ -32,7 +32,9 @@
 GitLab развернут локально через Vagrant. Создан пустой проект. GitLab-runner зарегистрирован для этого проекта и работает в режиме Docker.
 
 **Настройки раннера в проекте:**
-![GitLab Runner Settings](img/runner-screenshot.png) 
+![GitLab Runner Settings](img/runner-screenshot.png)
+
+!()[https://github.com/murman051/git-homework/blob/8-03-gitlab-hw/gitLab-hw/img/runner-screenshot.png]
 
 ---
 
